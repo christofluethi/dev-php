@@ -1,3 +1,3 @@
-# dev-php
+# dev-snippets
 
-Simple PHP Snippets
+Various language snippets
